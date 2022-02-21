@@ -1,0 +1,212 @@
+ .u-section-1 {
+  min-height: 712px;
+}
+
+.u-section-1 .u-shape-1 {
+  width: calc(((100% - 1140px) / 2) + 824px);
+  left: 0;
+}
+
+.u-section-1 .u-layout-wrap-1 {
+  width: 1140px;
+  margin: 70px auto;
+}
+
+.u-section-1 .u-image-1 {
+  min-height: 301px;
+  background-image: url("images/business-card-mock-up-assortment_23-2148783875.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-image-2 {
+  min-height: 301px;
+  background-image: url("images/asdsda.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-layout-cell-3 {
+  min-height: 602px;
+}
+
+.u-section-1 .u-image-3 {
+  height: 348px;
+  margin: 0 auto 0 0;
+}
+
+.u-section-1 .u-layout-cell-4 {
+  min-height: 602px;
+}
+
+.u-section-1 .u-container-layout-4 {
+  padding: 30px 60px;
+}
+
+.u-section-1 .u-text-1 {
+  font-weight: 700;
+  font-size: 4.5rem;
+  margin: 0;
+}
+
+.u-section-1 .u-text-2 {
+  font-size: 1.125rem;
+  margin: 30px 0 0;
+}
+
+.u-section-1 .u-text-3 {
+  margin: 30px 50px 0 0;
+}
+
+.u-section-1 .u-btn-1 {
+  border-style: none none solid;
+  padding: 0;
+}
+
+.u-section-1 .u-btn-2 {
+  border-style: solid;
+  margin: 20px auto 0 0;
+}
+
+@media (max-width: 1199px) {
+   .u-section-1 {
+    min-height: 606px;
+  }
+
+  .u-section-1 .u-shape-1 {
+    width: calc(((100% - 940px) / 2) + 679px);
+  }
+
+  .u-section-1 .u-layout-wrap-1 {
+    width: 940px;
+    margin-left: calc(((100% - 1140px) / 2) + 100px);
+  }
+
+  .u-section-1 .u-image-1 {
+    min-height: 248px;
+  }
+
+  .u-section-1 .u-image-2 {
+    min-height: 248px;
+  }
+
+  .u-section-1 .u-layout-cell-3 {
+    min-height: 496px;
+  }
+
+  .u-section-1 .u-image-3 {
+    height: 287px;
+    margin-right: initial;
+    margin-left: initial;
+  }
+
+  .u-section-1 .u-layout-cell-4 {
+    min-height: 496px;
+  }
+
+  .u-section-1 .u-text-3 {
+    margin-right: 0;
+  }
+}
+
+@media (max-width: 991px) {
+   .u-section-1 {
+    min-height: 2390px;
+  }
+
+  .u-section-1 .u-shape-1 {
+    width: calc(((100% - 720px) / 2) + 429px);
+  }
+
+  .u-section-1 .u-layout-wrap-1 {
+    width: 720px;
+    margin-left: calc(((100% - 1140px) / 2) + 210px);
+  }
+
+  .u-section-1 .u-image-1 {
+    min-height: 760px;
+  }
+
+  .u-section-1 .u-image-2 {
+    min-height: 760px;
+  }
+
+  .u-section-1 .u-layout-cell-3 {
+    min-height: 760px;
+  }
+
+  .u-section-1 .u-image-3 {
+    height: 440px;
+    margin-right: initial;
+    margin-left: initial;
+  }
+
+  .u-section-1 .u-layout-cell-4 {
+    min-height: 100px;
+  }
+
+  .u-section-1 .u-container-layout-4 {
+    padding-left: 30px;
+    padding-right: 30px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-shape-1 {
+    width: calc(((100% - 540px) / 2) + 254px);
+  }
+
+  .u-section-1 .u-layout-wrap-1 {
+    width: 540px;
+    margin-left: calc(((100% - 1140px) / 2) + 300px);
+  }
+
+  .u-section-1 .u-image-1 {
+    min-height: 570px;
+  }
+
+  .u-section-1 .u-image-2 {
+    min-height: 570px;
+  }
+
+  .u-section-1 .u-layout-cell-3 {
+    min-height: 1140px;
+  }
+
+  .u-section-1 .u-image-3 {
+    height: 660px;
+    margin-right: initial;
+    margin-left: initial;
+  }
+}
+
+@media (max-width: 575px) {
+   .u-section-1 {
+    min-height: 1546px;
+  }
+
+  .u-section-1 .u-shape-1 {
+    width: calc(((100% - 340px) / 2) + 126px);
+  }
+
+  .u-section-1 .u-layout-wrap-1 {
+    width: 340px;
+    margin-left: calc(((100% - 1140px) / 2) + 400px);
+  }
+
+  .u-section-1 .u-image-1 {
+    min-height: 359px;
+  }
+
+  .u-section-1 .u-image-2 {
+    min-height: 359px;
+  }
+
+  .u-section-1 .u-layout-cell-3 {
+    min-height: 718px;
+  }
+
+  .u-section-1 .u-image-3 {
+    height: 416px;
+    margin-right: initial;
+    margin-left: initial;
+  }
+}
